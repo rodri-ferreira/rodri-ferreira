@@ -20,4 +20,3 @@
 
 Atualmente estou estudando análise e desenvolvimento de sistemas pela Faculdade Flamingo com previsão de término em dezembro de 2023,
 e trabalhando como analista de marketing, através deste perfil apresento os meus projetos desenvolvidos, estou a procura da minha primeira oportunidade como desenvolvedor back-end java
-
