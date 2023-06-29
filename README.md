@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-ferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Trabalhando como analista de marketing, através deste perfil apresento os meus projetos desenvolvidos, estou a procura da minha primeira oportunidade como desenvolvedor front-end
+Atualmente trabalho como analista de marketing, através deste perfil apresento os meus projetos desenvolvidos, estou a procura da minha primeira oportunidade como desenvolvedor front-end
