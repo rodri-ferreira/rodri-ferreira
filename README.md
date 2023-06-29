@@ -6,7 +6,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<h1><a href="https://devrodrigo.com.br" target="_blank" >Acesse meu portifólio</a></h1>
+<h1><a href= "https://devrodrigo.com.br" target= "_blank" >Acesse meu portifólio</a></h1>
 
 <div style = "display inline_block"><br/>
     <img align= "center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
